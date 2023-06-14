@@ -1,0 +1,89 @@
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Projeto_Biblioteca.exe.config
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Projeto_Biblioteca.exe
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Projeto_Biblioteca.pdb
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\BouncyCastle.Crypto.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Google.Protobuf.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\MySql.Data.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Buffers.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.IO.Pipelines.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Memory.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\BouncyCastle.Crypto.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Google.Protobuf.pdb
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Google.Protobuf.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\MySql.Data.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Buffers.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.IO.Pipelines.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Memory.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csprojAssemblyReference.cache
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Properties.Resources.resources
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.GenerateResource.cache
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.CoreCompileInputs.cache
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.CopyComplete
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.exe
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.pdb
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\EntityFramework.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\EntityFramework.SqlServer.dll
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\EntityFramework.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\EntityFramework.SqlServer.xml
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Registro.resources
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Home.resources
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Login.resources
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.AdicionarLivro.resources
+D:\Andrey\Programas C#\Visual Studio\Projeto_Biblioteca\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Livros.resources
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Projeto_Biblioteca.exe.config
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Projeto_Biblioteca.exe
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Projeto_Biblioteca.pdb
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\BouncyCastle.Crypto.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\EntityFramework.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\EntityFramework.SqlServer.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Google.Protobuf.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\MySql.Data.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Buffers.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.IO.Pipelines.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Memory.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\BouncyCastle.Crypto.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\EntityFramework.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\EntityFramework.SqlServer.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Google.Protobuf.pdb
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Google.Protobuf.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\MySql.Data.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Buffers.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.IO.Pipelines.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Memory.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.AssemblyReference.cache
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.SuggestedBindingRedirects.cache
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.AdicionarLivro.resources
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Home.resources
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Livros.resources
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Login.resources
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Registro.resources
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.Properties.Resources.resources
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.GenerateResource.cache
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.CoreCompileInputs.cache
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.CopyComplete
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.exe
+D:\csharp\Projetos-main\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.pdb
